@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+
+---
+title: "Prometheus: Generalist Teleoperation System with Haptic Feedback and Mocap for Robot Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2025-12-01
+venue: 'IEEE ROBIO 2025'
+Xplore: 'https://arxiv.org/abs/2508.07814'
+Arxiv: 'https://arxiv.org/abs/2510.01023'
+Youtube: 'https://youtu.be/Q9KDuH-t3Og'
+citation: 'S. Satsevich, A. Bazhenov, S. Egorov, A. Erkhov, M. Gromakov, A. Fedoseev, and D. Tsetserukou, “Prometheus: Generalist Teleoperation System with Haptic Feedback and Mocap for Robot Learning,” in Proc. IEEE Int. Conf. on Robotics and Biomimetics (ROBIO), Chengdu, China, Dec. 3-7, 2025, pp. 1578-1583. 
+'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
