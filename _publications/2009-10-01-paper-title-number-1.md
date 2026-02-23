@@ -2,7 +2,6 @@
 title: "SwarmVLM: VLM-Guided Impedance Control for Autonomous Navigation of Heterogeneous Robots in Dynamic Warehousing"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://arxiv.org/abs/2508.07814 )
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-12
 venue: 'Journal 1'
