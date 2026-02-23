@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/dzmitry.tsetserukou/?locale=ru_RU"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "@DzmitryTT"
+  telegram         : "t.me/DzmitryTT"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
